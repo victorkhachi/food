@@ -369,6 +369,11 @@ footer{
         width: 100%;
         
     }
+    .menu-container{
+        top: -100%;
+        
+    }
+    
     .list{
         /* flex-direction: column; */
         flex-wrap: wrap;
@@ -429,6 +434,11 @@ footer{
         width: 100%;
         
     }
+     .menu-container{
+        top: -100%;
+        
+    }
+   
     .list{
         /* flex-direction: column; */
         flex-wrap: wrap;
