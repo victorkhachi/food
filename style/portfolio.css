@@ -188,9 +188,10 @@ button{
     width: 10%;
     display: flex;
     justify-content: space-between;
-    position: absolute;
-    top: 60%;
-    left: 44%;
+    /* position: absolute; */
+    /* top: 60%; */
+    /* left: 54%; */
+    margin: 30% 20%;
     
 }
 .circle div{
@@ -360,7 +361,8 @@ footer{
     border: none;
 }
     .circle{
-        top: 35%;
+        top:60%;
+        width: 20%;
     }
     
     .menu-containerr{
@@ -421,7 +423,7 @@ footer{
     padding: 40px 0px;
 }
     .circle{
-        margin-top: 5%;
+        top: 35%;
     }
     .menu-containerr{
         width: 100%;
